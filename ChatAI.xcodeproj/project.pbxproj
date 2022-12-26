@@ -15,6 +15,7 @@
 		AF58701129557718007AC052 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF58701029557718007AC052 /* ViewModel.swift */; };
 		AF58701529558A02007AC052 /* OnboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF58701429558A02007AC052 /* OnboardView.swift */; };
 		AF587018295596EA007AC052 /* MessageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF587017295596EA007AC052 /* MessageModel.swift */; };
+		AF58701A2959BBDE007AC052 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5870192959BBDE007AC052 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		AF58701229558950007AC052 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		AF58701429558A02007AC052 /* OnboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardView.swift; sourceTree = "<group>"; };
 		AF587017295596EA007AC052 /* MessageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageModel.swift; sourceTree = "<group>"; };
+		AF5870192959BBDE007AC052 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				AF58700F29557704007AC052 /* ViewModel */,
 				AF587002295571D8007AC052 /* Assets.xcassets */,
 				AF587004295571D8007AC052 /* Preview Content */,
+				AF5870192959BBDE007AC052 /* Constant.swift */,
 			);
 			path = ChatAI;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				AF587001295571D6007AC052 /* ContentView.swift in Sources */,
 				AF58701129557718007AC052 /* ViewModel.swift in Sources */,
 				AF586FFF295571D6007AC052 /* ChatAIApp.swift in Sources */,
+				AF58701A2959BBDE007AC052 /* Constant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
